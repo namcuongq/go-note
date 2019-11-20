@@ -136,3 +136,4 @@ var hits struct {
 ### References
 
 - [ ] tổng hợp câu hỏi và câu trả lời về golang: https://github.com/goquiz/goquiz.github.io
+- [ ] danh sách các công cụ hay cho golang: https://github.com/golangci/awesome-go-linters 
